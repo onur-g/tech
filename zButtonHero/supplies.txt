@@ -1,0 +1,11 @@
+Supplies
+- 4 LEDs
+- 4 buttons
+- 1 Arduino
+- 4 8.2k ohm resistors
+- 4 100 ohm resistors
+- 4 0.56k ohm resistors
+- wires
+
+Guide for running
+- Resize 9600baud Serial Monitor to 6 lines high and wide enough so there's no horizontal scrollbar
